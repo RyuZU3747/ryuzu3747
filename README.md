@@ -5,4 +5,6 @@
 
 [![RyuZU_](https://atcoder.junah.dev/v1/generate_badge?name=RyuZU_)](https://atcoder.jp/users/ryuzu_)
 
+[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=dbrua1222)](https://solved.ac/profile/dbrua1222/arena)
+
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/RyuZU.svg)](https://codeforces.com/profile/RyuZU)
