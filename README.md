@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 📖 My Blog
 
 [![Visit my Blog](https://img.shields.io/badge/Blog-ryuzu.me-1DA1F2?style=flat-square&logo=book&logoColor=white)](https://ryuzu.me)
