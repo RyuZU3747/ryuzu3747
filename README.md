@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Solved.ac프로필](boj.png)
+[![Solved.ac프로필](boj.png)](https://solved.ac/profile/dbrua1222)
 
 [![Codeforces](https://raw.githubusercontent.com/RyuZU3747/cfstats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/RyuZU)
 
